@@ -1,0 +1,9 @@
+.foo {
+  color: red;
+}
+.bar {
+  color: blue;
+}
+[data-todo] {
+  outline: 2px dashed green;
+}
