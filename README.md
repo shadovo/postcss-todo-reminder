@@ -29,6 +29,12 @@ with no risk of releasing debug-css in production.
 }
 ```
 
+## Usage
+
+```js
+postcss([ require('postcss-todo-reminder')({color: red}) ])
+```
+
 ```html
 <!-- Usage in your HTML -->
 <p data-todo>
@@ -36,11 +42,6 @@ with no risk of releasing debug-css in production.
 </p>
 ```
 
-## Usage
-
-```js
-postcss([ require('postcss-todo-reminder')({color: red}) ])
-```
 Will take any color allowed by css or default to `'orange'` if no other color
 is specified.
 
