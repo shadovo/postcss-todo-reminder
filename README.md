@@ -1,4 +1,4 @@
-# PostCSS Todo-reminder
+# PostCSS Todo-reminder [![Build Status](https://travis-ci.org/shadovo/postcss-todo-reminder.svg?branch=master)](https://travis-ci.org/shadovo/postcss-todo-reminder)
 
 [PostCSS] plugin to add styling to elements with the data-todo attribute.
 Include this in your dev environment to make it clear what is left to be done with no risk of releasing debug-css in production.
