@@ -11,6 +11,10 @@
   ],
   "author": "Oscar Rundh <mr.rundh@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadovo/postcss-todo-reminder"
+  },
   "dependencies": {
     "postcss": "^5.0.21"
   },
