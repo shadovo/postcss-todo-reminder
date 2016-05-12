@@ -9,7 +9,7 @@
     "postcss-plugin",
     "data-todo"
   ],
-  "author": "Oscar Rundh <oscar.rundh@gmail.com>",
+  "author": "Oscar Rundh <mr.rundh@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "postcss": "^5.0.21"
