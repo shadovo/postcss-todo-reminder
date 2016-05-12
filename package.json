@@ -1,6 +1,6 @@
 {
   "name": "postcss-todo-reminder",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simble plugin that adds an outline to elements with a data-todo attribute, use this plugin in your dev enviroment",
   "main": "lib/todo-reminder.js",
   "keywords": [
